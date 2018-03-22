@@ -8,7 +8,7 @@ describe('Equality of numbers ', function(){
 		
 	});
 	it('should return mutiplication of the given numbers', function(){
-		assert.equal(obj.multiply(2,2), 4);
+		assert.equal(obj.multiply(2,2), 8);
 	});
 });
 
